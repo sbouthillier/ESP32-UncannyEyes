@@ -3,6 +3,18 @@
 ## Dependencies:
 - TFT_eSPI
 
+## Pinout
+| ESP32 | Display |
+|-------|---------|
+|  18   | SCL     |
+|  23   | SDA     |
+|   4   | RST     |
+|   2   | DC      |
+|  25   | BL      |
+|   5   | CS 1    |
+|   21  | CS 2    |
+
+
 ## TFT_eSPI configurations:
 
 ### User_Setup_Select.h
